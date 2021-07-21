@@ -1,21 +1,19 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
+widget_id: RECENT-POSTS
+design:
+  columns: "1"
+  background:
+    color: "#ad1c1c"
+    gradient_start: "#7d5050"
+    gradient_end: "#dc3939"
+    text_color_light: true
+    image: icon.png
+    image_darken: 1
 ---
+I am HAHHAHAHA
