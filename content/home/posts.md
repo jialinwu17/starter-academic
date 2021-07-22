@@ -1,6 +1,6 @@
 ---
-widget: pages
-widget_id: Portfolio
+widget: Portfolio
+widget_id: Authors
 headless: true
 weight: 60
 title: authorssss
