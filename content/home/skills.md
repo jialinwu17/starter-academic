@@ -18,4 +18,6 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
+design:
+  columns: "2"
 ---
