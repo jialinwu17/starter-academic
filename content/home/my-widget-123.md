@@ -3,7 +3,7 @@ widget: pages
 widget_id: authors
 headless: true
 weight: 130
-active: true
+active: false
 design:
   columns: "2"
   background:
