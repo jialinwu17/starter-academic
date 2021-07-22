@@ -2,7 +2,7 @@
 widget: pages
 widget_id: authors
 headless: true
-weight: 110
+weight: 130
 active: true
 design:
   columns: "2"
