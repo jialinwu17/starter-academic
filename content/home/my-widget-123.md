@@ -1,5 +1,5 @@
 ---
-widget: authors
+widget: pages
 widget_id: authors
 headless: true
 weight: 10
