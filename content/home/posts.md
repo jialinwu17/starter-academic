@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: RECENT-POSTS
+widget_id: Portfolio
 headless: true
 weight: 60
 title: Recent Posts
