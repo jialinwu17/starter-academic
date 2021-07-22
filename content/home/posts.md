@@ -3,7 +3,7 @@ widget: Portfolio
 widget_id: Authors
 headless: true
 weight: 60
-title: authorss
+title: "authorssOK "
 subtitle: null
 content:
   page_type: post
