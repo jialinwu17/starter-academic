@@ -1,12 +1,12 @@
 ---
 widget: featurette
-widget_id: AUTHORS
+widget_id: 123
 headless: true
 weight: 30
-title: Authors
+title: Skills
 subtitle: null
 feature:
-  - description: 90%
+  - description: 30%
     icon: r-project
     icon_pack: fab
     name: R
